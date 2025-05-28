@@ -1,0 +1,424 @@
+{
+    "qa_pairs": [
+        {
+            "question": "Who is the main protagonist of the Lord of the Rings trilogy?",
+            "answer": "Frodo Baggins is the main protagonist of the Lord of the Rings trilogy."
+        },
+        {
+            "question": "What is the name of Frodo's loyal gardener and friend?",
+            "answer": "Samwise Gamgee, often called Sam."
+        },
+        {
+            "question": "Who is the wizard that leads the Fellowship of the Ring?",
+            "answer": "Gandalf the Grey is the wizard who leads the Fellowship."
+        },
+        {
+            "question": "What is the name of the realm ruled by Elrond?",
+            "answer": "Rivendell is ruled by Elrond."
+        },
+        {
+            "question": "Who is the rightful heir to the throne of Gondor?",
+            "answer": "Aragorn is the rightful heir to the throne of Gondor."
+        },
+        {
+            "question": "What is the name of the Dark Lord who created the One Ring?",
+            "answer": "Sauron created the One Ring."
+        },
+        {
+            "question": "What kind of creature is Legolas?",
+            "answer": "Legolas is an Elf of the Woodland Realm."
+        },
+        {
+            "question": "Who is Gimli’s father?",
+            "answer": "Glóin is Gimli's father."
+        },
+        {
+            "question": "What is the Elvish name for Rivendell?",
+            "answer": "Imladris is the Elvish name for Rivendell."
+        },
+        {
+            "question": "What member of the Fellowship tries to take the Ring from Frodo at Amon Hen?",
+            "answer": "Boromir tries to take the Ring from Frodo at Amon Hen."
+        },
+        {
+            "question": "Who betrays Frodo and Sam and leads them to Shelob?",
+            "answer": "Gollum betrays Frodo and Sam."
+        },
+        {
+            "question": "What is the name of the mountain where the Ring must be destroyed?",
+            "answer": "Mount Doom (Orodruin) is the mountain where the Ring must be destroyed."
+        },
+        {
+            "question": "Who originally receives the One Ring after Sauron loses it?",
+            "answer": "Isildur takes the One Ring after cutting it from Sauron's hand."
+        },
+        {
+            "question": "Who kills the Witch-king of Angmar?",
+            "answer": "Éowyn, with the help of Merry, kills the Witch-king."
+        },
+        {
+            "question": "Who is the Steward of Gondor during the War of the Ring?",
+            "answer": "Denethor II is the Steward of Gondor."
+        },
+        {
+            "question": "What is the name of Frodo’s home?",
+            "answer": "Frodo lives at Bag End."
+        },
+        {
+            "question": "What race is Treebeard?",
+            "answer": "Treebeard is an Ent."
+        },
+        {
+            "question": "What type of creature is Gollum?",
+            "answer": "Gollum was once a Stoor Hobbit named Sméagol."
+        },
+        {
+            "question": "Who saves Frodo from the Barrow-wight in the books?",
+            "answer": "Tom Bombadil saves Frodo and his friends from the Barrow-wight (though this does not appear in the movies)."
+        },
+        {
+            "question": "What is the password Gandalf uses to open the doors of Moria?",
+            "answer": "The password is 'Mellon,' which means 'friend' in Elvish."
+        },
+        {
+            "question": "Who slays Saruman’s army at Helm’s Deep?",
+            "answer": "The people of Rohan, with the help of Gandalf and Éomer's Riders, defeat Saruman's army."
+        },
+        {
+            "question": "Who becomes King of Gondor at the end of the trilogy?",
+            "answer": "Aragorn becomes King Elessar of Gondor."
+        },
+        {
+            "question": "What is the Elvish word for 'friend' used at Moria?",
+            "answer": "'Mellon' is the Elvish word for 'friend.'"
+        },
+        {
+            "question": "In which forest does Galadriel live?",
+            "answer": "Galadriel lives in the forest of Lothlórien."
+        },
+        {
+            "question": "What gift does Galadriel give to Gimli?",
+            "answer": "Galadriel gives Gimli three strands of her hair."
+        },
+        {
+            "question": "What is the name of Aragorn’s sword after it is reforged?",
+            "answer": "Andúril is the name of the reforged sword."
+        },
+        {
+            "question": "What is the name of Frodo's sword?",
+            "answer": "Frodo’s sword is called Sting."
+        },
+        {
+            "question": "What is the name of Sam’s pony?",
+            "answer": "Sam’s pony is named Bill."
+        },
+        {
+            "question": "Who acts as Frodo's main companion throughout the entire journey?",
+            "answer": "Samwise Gamgee is Frodo's loyal companion throughout the journey."
+        },
+        {
+            "question": "Who is Arwen’s father?",
+            "answer": "Arwen's father is Elrond."
+        },
+        {
+            "question": "What is the name of Boromir's brother?",
+            "answer": "Boromir’s brother is Faramir."
+        },
+        {
+            "question": "Who is the leader of the Nazgûl?",
+            "answer": "The Witch-king of Angmar leads the Nazgûl."
+        },
+        {
+            "question": "Where do the Hobbits live?",
+            "answer": "The Hobbits live in the Shire."
+        },
+        {
+            "question": "What is the elven city where the Council of Elrond is held?",
+            "answer": "The Council of Elrond is held in Rivendell."
+        },
+        {
+            "question": "Who gives Frodo the Light of Eärendil?",
+            "answer": "Galadriel gives Frodo the Light of Eärendil."
+        },
+        {
+            "question": "What monster does Gandalf battle in Moria?",
+            "answer": "Gandalf battles the Balrog in Moria."
+        },
+        {
+            "question": "What is the White City?",
+            "answer": "Minas Tirith is known as the White City."
+        },
+        {
+            "question": "Who is Théoden?",
+            "answer": "Théoden is the King of Rohan."
+        },
+        {
+            "question": "What is Gollum’s real name?",
+            "answer": "Gollum’s real name is Sméagol."
+        },
+        {
+            "question": "What is the race of Shelob?",
+            "answer": "Shelob is a giant spider."
+        },
+        {
+            "question": "What is the name of the inn the Hobbits visit in Bree?",
+            "answer": "The Prancing Pony is the inn in Bree."
+        },
+        {
+            "question": "Who is the owner of the Prancing Pony?",
+            "answer": "Barliman Butterbur owns the Prancing Pony."
+        },
+        {
+            "question": "What does Gollum call the Ring?",
+            "answer": "Gollum calls the Ring 'my precious.'"
+        },
+        {
+            "question": "Who is Legolas’s father?",
+            "answer": "Thranduil, the Elvenking of Mirkwood, is Legolas’s father."
+        },
+        {
+            "question": "What is the Great River the Fellowship travels down after leaving Lothlórien?",
+            "answer": "The Great River is the Anduin."
+        },
+        {
+            "question": "What is the city of the Dwarves found in the Fellowship of the Ring?",
+            "answer": "Moria (Khazad-dûm) is the dwarven city."
+        },
+        {
+            "question": "What is Sauron's fortress called?",
+            "answer": "Barad-dûr is Sauron’s fortress."
+        },
+        {
+            "question": "Who is Frodo’s uncle who gives him the Ring?",
+            "answer": "Bilbo Baggins is Frodo's uncle who gives him the Ring."
+        },
+        {
+            "question": "Who says 'You shall not pass!'?",
+            "answer": "Gandalf declares 'You shall not pass!' to the Balrog."
+        },
+        {
+            "question": "What is the name of the horse given to Gandalf by Théoden?",
+            "answer": "Shadowfax is the horse given to Gandalf."
+        },
+        {
+            "question": "Who leads the army of the Dead in the Return of the King?",
+            "answer": "Aragorn leads the Army of the Dead."
+        },
+        {
+            "question": "What are the names of Frodo’s Hobbit companions, other than Sam?",
+            "answer": "Meriadoc 'Merry' Brandybuck and Peregrin 'Pippin' Took."
+        },
+        {
+            "question": "Who is Saruman?",
+            "answer": "Saruman is the head of the Istari, originally the chief of the wizards, who turns to evil."
+        },
+        {
+            "question": "Who sings a song to inspire courage before the Battle of the Pelennor Fields?",
+            "answer": "Aragorn sings to inspire courage before charging at the Black Gate in the extended edition, but Pippin also sings in Minas Tirith before Faramir’s doomed charge."
+        },
+        {
+            "question": "What type of being is Gandalf?",
+            "answer": "Gandalf is a Maia—a lesser divine spirit—but is known as a wizard in Middle-earth."
+        },
+        {
+            "question": "What is the Ringwraiths’ other name?",
+            "answer": "They are also known as the Nazgûl."
+        },
+        {
+            "question": "At which location does the Fellowship break apart?",
+            "answer": "The Fellowship breaks at Amon Hen."
+        },
+        {
+            "question": "Which member of the Fellowship nearly drowns while trying to follow Frodo?",
+            "answer": "Samwise nearly drowns following Frodo."
+        },
+        {
+            "question": "How many members make up the original Fellowship of the Ring?",
+            "answer": "Nine members comprise the Fellowship."
+        },
+        {
+            "question": "Who kills the Balrog in Moria?",
+            "answer": "Gandalf defeats the Balrog."
+        },
+        {
+            "question": "What gift does Galadriel present to Frodo?",
+            "answer": "The Phial of Galadriel, containing the Light of Eärendil."
+        },
+        {
+            "question": "Who rides the horse named Brego?",
+            "answer": "Aragorn rides Brego."
+        },
+        {
+            "question": "What is the name of Faramir and Boromir’s father?",
+            "answer": "Denethor is their father."
+        },
+        {
+            "question": "Who sends the eagles to rescue Frodo and Sam from Mount Doom?",
+            "answer": "Gandalf summons the Eagles."
+        },
+        {
+            "question": "Who says the line, 'One does not simply walk into Mordor'?",
+            "answer": "Boromir says it at the Council of Elrond."
+        },
+        {
+            "question": "What is the name of the giant spider that attacks Frodo?",
+            "answer": "Shelob attacks Frodo in Cirith Ungol."
+        },
+        {
+            "question": "Which two characters are cousins in the Shire?",
+            "answer": "Merry (Meriadoc Brandybuck) and Pippin (Peregrin Took) are cousins."
+        },
+        {
+            "question": "Who is Éowyn’s brother?",
+            "answer": "Éomer is Éowyn’s brother."
+        },
+        {
+            "question": "Who creates the Uruk-hai?",
+            "answer": "Saruman breeds the Uruk-hai."
+        },
+        {
+            "question": "What is the greatest fortress of Rohan?",
+            "answer": "Helm’s Deep, also known as the Hornburg."
+        },
+        {
+            "question": "Who gets separated in Moria and must jump across a broken stair with Legolas’s help?",
+            "answer": "Aragorn and Frodo jump across with Legolas’s help in the film."
+        },
+        {
+            "question": "Who guards the gate at Bree?",
+            "answer": "Harry Goatleaf guards the gate."
+        },
+        {
+            "question": "What is the name of the volcano where the Ring is destroyed?",
+            "answer": "Mount Doom, or Orodruin."
+        },
+        {
+            "question": "What plant does Aragorn use to help heal Frodo after he is stabbed by the Morgul blade?",
+            "answer": "Athelas, also called Kingsfoil."
+        },
+        {
+            "question": "What is the name of the giant evil eye symbolizing Sauron's presence?",
+            "answer": "The Eye of Sauron."
+        },
+        {
+            "question": "Who becomes the new Steward of Gondor after Denethor?",
+            "answer": "Faramir becomes the new Steward of Gondor."
+        },
+        {
+            "question": "What is the main city of the Rohirrim?",
+            "answer": "Edoras is the capital of Rohan."
+        },
+        {
+            "question": "Who says the line, 'I am no man!'?",
+            "answer": "Éowyn says it before killing the Witch-king."
+        },
+        {
+            "question": "Who saves Faramir from being burned alive by Denethor?",
+            "answer": "Pippin and Gandalf save Faramir."
+        },
+        {
+            "question": "What is the full name of Pippin?",
+            "answer": "Peregrin Took."
+        },
+        {
+            "question": "What is the name of the river that runs through the Shire?",
+            "answer": "The Brandywine River."
+        },
+        {
+            "question": "Who almost eats the lembas bread in one huge bite and gets scolded for it?",
+            "answer": "Pippin almost eats too much lembas bread."
+        },
+        {
+            "question": "Who is known as the 'White Wizard' after the fall of Saruman?",
+            "answer": "Gandalf becomes Gandalf the White."
+        },
+        {
+            "question": "Who is the king of the Dead Men of Dunharrow?",
+            "answer": "The King of the Dead, whose name is not given in the movies, leads them."
+        },
+        {
+            "question": "Who drowns in the river while trying to escape with the Ring before Gollum finds it?",
+            "answer": "Déagol drowns before Sméagol claims the Ring."
+        },
+        {
+            "question": "Which Hobbit is the tallest?",
+            "answer": "Merry becomes the tallest Hobbit after drinking Ent-draught."
+        },
+        {
+            "question": "Who is the Lady of Light?",
+            "answer": "Galadriel is called the Lady of Light."
+        },
+        {
+            "question": "Which member of the Fellowship is the son of the Dwarf who accompanied Bilbo in The Hobbit?",
+            "answer": "Gimli is the son of Glóin, one of Thorin’s company."
+        },
+        {
+            "question": "Who carries Frodo when he collapses on Mount Doom?",
+            "answer": "Samwise Gamgee carries Frodo."
+        },
+        {
+            "question": "What is the alternative name for Strider?",
+            "answer": "Aragorn is also known as Strider."
+        },
+        {
+            "question": "Who says, 'There’s some good in this world, and it’s worth fighting for'?",
+            "answer": "Samwise says this in The Two Towers."
+        },
+        {
+            "question": "Who attacks Osgiliath, leading to Faramir’s retreat?",
+            "answer": "The army of Sauron led by Gothmog assaults Osgiliath."
+        },
+        {
+            "question": "Who is the last to board the ship at the Grey Havens?",
+            "answer": "Frodo is the last to board at the Grey Havens."
+        },
+        {
+            "question": "What is the name of the creature that serves as Saruman's spy in Bree?",
+            "answer": "A man named Bill Ferny."
+        },
+        {
+            "question": "Who says, 'Not all those who wander are lost'?",
+            "answer": "This is a line about Aragorn, originally from Bilbo's poem."
+        },
+        {
+            "question": "Which Hobbit has a penchant for second breakfast?",
+            "answer": "Pippin (and often Merry)."
+        },
+        {
+            "question": "Who is Rosie Cotton?",
+            "answer": "She is Sam’s love interest and later his wife."
+        },
+        {
+            "question": "Who helps lead the Ents’ attack on Isengard?",
+            "answer": "Treebeard leads the Ents."
+        },
+        {
+            "question": "What is the name of the fortress city directly across Mordor's Black Gate?",
+            "answer": "Minas Morgul (not directly across the Black Gate, rather, but it is the city of the Ringwraiths). The Black Gate faces the fortress of Udûn, while the paths to Mordor pass by Minas Morgul."
+        },
+        {
+            "question": "What natural event helps save the riders of Rohan at Helm’s Deep?",
+            "answer": "The arrival of Gandalf with Éomer’s riders and the rising sun."
+        },
+        {
+            "question": "Who re-forges the sword Andúril?",
+            "answer": "The Elven smiths of Rivendell."
+        },
+        {
+            "question": "Who becomes the Thain of the Shire after the War of the Ring (in the books and extended legendarium)?",
+            "answer": "Pippin Took becomes Thain of the Shire."
+        },
+        {
+            "question": "Who tries to steal the Palantír from Gandalf?",
+            "answer": "Pippin looks into the Palantír after taking it from Gandalf while he sleeps."
+        },
+        {
+            "question": "Which tower does Frodo believe Sam abandoned him at?",
+            "answer": "The Tower of Cirith Ungol."
+        },
+        {
+            "question": "What is Aragorn’s Elvish name given by his elven mother?",
+            "answer": "Estel."
+        }
+    ]
+}
