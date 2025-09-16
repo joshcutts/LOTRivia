@@ -3,7 +3,8 @@
 A full-stack Lord of the Rings trivia game for Middle-earth fans. The app uses OpenAI text embeddings and cosine similarity to retrieve related questions and to grade free‑form answers.
 
 
-![App screenshot](docs/screenshot_lotrivia.png)
+<img width="930" height="944" alt="screenshot_lotrivia" src="https://github.com/user-attachments/assets/d1001ae8-f533-4dda-b687-8a13fc6b9a80" />
+
 
 ## Features
 
